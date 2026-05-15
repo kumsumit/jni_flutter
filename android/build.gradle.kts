@@ -15,8 +15,8 @@ repositories {
     }
 
 android {
-    namespace 'com.github.dart_lang.jni_flutter'
-    compileSdk 37
+    namespace ='com.github.dart_lang.jni_flutter'
+    compileSdk = 37
 
     defaultConfig {
         minSdk = 24
