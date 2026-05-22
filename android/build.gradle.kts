@@ -1,9 +1,7 @@
-import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 // The Android Gradle Plugin builds the native code with the Android NDK.
 
 plugins {
     id("com.android.library")
-    id("org.jetbrains.kotlin.android") version "2.3.21"
 }
 
 group = "com.github.dart_lang.jni_flutter"
